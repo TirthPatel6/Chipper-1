@@ -1,0 +1,11 @@
+﻿Part Number,Capacity,UFS Version,Max Data Rate (MB/s),Vcc,Vccq,Vccq2,Operating Temperature (C),Package Size (mm),Grade
+THGAF8G8T23BAIL,32GB,2.1,1166,2.7 to 3.6,n/a,1.70 to 1.95,-25 to 85,11.5x13.0x0.8,n/a
+THGAF8G9T43BAIR,64GB,2.1,1166,2.7 to 3.6,n/a,1.70 to 1.95,-25 to 85,11.5x13.0x1.0,n/a
+THGAF8T0T43BAIR,128GB,2.1,1166,2.7 to 3.6,n/a,1.70 to 1.95,-25 to 85,11.5x13.0x1.0,n/a
+THGAF8T1T83BAIR,256GB,2.1,1166,2.7 to 3.6,n/a,1.70 to 1.95,-25 to 85,11.5x13.0x1.0,n/a
+THGJFCT0T44BAIL,128GB,3,2332,2.4 to 2.7,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.8,n/a
+THGJFCT0T44BAKL,128GB,3,2332,2.7 to 3.6,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.8,High Performance Grade
+THGJFCT1T84BAIC,256GB,3,2332,2.7 to 3.6,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.95,n/a
+THGJFCT1T84BAKC,256GB,3,2332,2.7 to 3.6,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.95,High Performance Grade
+THGJFCT2T84BAIC,512GB,3,2332,2.7 to 3.6,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.95,n/a
+THGJFCT2T84BAKC,512GB,3,2332,2.7 to 3.6,1.14 to 1.26,n/a,-25 to 85,11.5x13.0x0.95,High Performance Grade

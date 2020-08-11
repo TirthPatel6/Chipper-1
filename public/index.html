@@ -1,0 +1,406 @@
+<!doctype html>
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Embellished 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140207
+
+-->
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Chipper | Microchip Search Engine</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Ubuntu&display=swap" rel="stylesheet">
+	<link href="style/default.css" rel="stylesheet" type="text/css" media="all">
+	<link href="style/fonts.css" rel="stylesheet" type="text/css" media="all">
+	<link href="style/decoder.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+<div id="wrapper1">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="#">Chipper</a></h1>
+				<span>Microchip Search Engine</span>
+			</div>
+			<div id="menu">
+				<ul>
+					<li id="_menu_Search" class="current_page_item"><a href="#" accesskey="1" title="" onclick="toSearch()">Search</a></li>
+					<li id="_menu_Decoder"><a href="#" accesskey="2" title="" onclick="toDecoder()">Decoder</a></li>
+					<li id="_menu_About"><a href="#" accesskey="3" title="" onclick="toAbout()">About Us</a></li>
+					<li id="_menu_Contact"><a href="#" accesskey="4" title="" onclick="toContact()">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="wrapper2" style="display: none">
+	</div>
+	<div id="wrapper3">
+		<div id="portfolio" class="container">
+			<div id="searchTitle" class="title">
+				<h2>Part Number Search</h2>
+				<span class="byline">Use this tool to interpret part numbers from common memory chips</span>
+			</div>
+			<div id="decoderTitle" class="title">
+				<h2>Part Number Decoder</h2>
+				<span class="byline">Click on each block to interpret part numbers for DDR4 SDRAM chips</span>
+			</div>
+			<form id="searchContainer" action="javascript:void(0);">
+				<div id="searchbarContainer">
+					<input id="searchbar" type="text" placeholder="Type a part number...">
+					<div id="results"></div>
+					<div id="other_results_container"></div>
+				</div>
+				<div>
+					<input id="searchsubmit" type="submit" value="Search" onclick="submitText()">
+				</div>
+			</form>
+			<div id="decoders" style="display: none;">
+				<div class="part" id="samsung">
+<div class="partTitle">Samsung</div>
+<div class="partNum">
+<data>K</data>
+<data>4</data>
+<data>A</data>
+<data>XX</data>
+<data>XX</data>
+<data>X</data>
+<data>X</data>
+<data>X</data>
+<span>-</span>
+<data>X</data>
+<data>X</data>
+<data>XX</data>
+</div>
+<div class="partContent">
+<div>
+<b>Manufacturer Code</b><br>
+K: Samsung Memory<br>
+</div>
+<div>
+<b>Product Family</b><br>
+DRAM: 4<br>
+</div>
+<div>
+<b>DRAM Type</b><br>
+A: DDR4 SDRAM (1.2V VDD)<br>
+</div>
+<div>
+<b>Density</b><br>
+4G: 4Gb<br>
+8G: 8Gb<br>
+AG: 16Gb<br>
+BG: 32Gb<br>
+</div>
+<div>
+<b>Bit Organization</b><br>
+16: x16<br>
+04: x4<br>
+08: x8<br>
+</div>
+<div>
+<b># of Internal Banks</b><br>
+5: 16 Banks<br>
+</div>
+<div>
+<b>Interface (VDD, VDDQ)</b><br>
+W: POD (1.2V, 1.2V)<br>
+</div>
+<div>
+<b>Revision</b><br>
+M: 1st Gen.<br>
+A: 2nd Gen.<br>
+B: 3rd Gen.<br>
+C: 4th Gen.<br>
+D: 5th Gen.<br>
+E: 6th Gen.<br>
+F: 7th Gen.<br>
+G: 8th Gen.<br>
+</div>
+<div>
+<b>Package Type</b><br>
+2: FBGA (Halogen-free & Lead-free, 2H TSV)<br>
+3: FBGA (Halogen-free & Lead-free, 2H 3DS)<br>
+4: FBGA (Halogen-free & Lead-free, 4H TSV)<br>
+5: FBGA (Halogen-free & Lead-free, 4H 3DS)<br>
+B: FBGA (Halogen-free & Lead-free, Flip Chip)<br>
+M: FBGA (Halogen-free & Lead-free, DDP)<br>
+</div>
+<div>
+<b>Temp & Power</b><br>
+C: Commercial Temp.( 0°C ~ 85°C) & Normal Power<br>
+I: Industrial Temp.(-40°C ~ 95°C) & Normal Power<br>
+</div>
+<div>
+<b>Speed</b><br>
+PB: DDR4-2133 (1066MHz @ CL=15, tRCD=15, tRP=15)<br>
+RC: DDR4-2400 (1200MHz @ CL=17, tRCD=17, tRP=17)<br>
+TD: DDR4-2666 (1333MHz @ CL=19, tRCD=19, tRP=19)<br>
+RB: DDR4-2133 (1066MHz @ CL=17, tRCD=15, tRP=15)<br>
+TC: DDR4-2400 (1200MHz @ CL=19, tRCD=17, tRP=17)<br>
+WD: DDR4-2666 (1333MHz @ CL=22, tRCD=19, tRP=19)<br>
+VF: DDR4-2933 (1466MHz @ CL=21, tRCD=21, tRP=21)<br>
+WE: DDR4-3200 (1600MHz @ CL=22, tRCD=22, tRP=22)<br>
+YF: DDR4-2933 (1466MHz @ CL=24, tRCD=21, tRP=21)<br>
+AE: DDR4-3200 (1600MHz @ CL=26, tRCD=22, tRP=22)<br>
+</div>
+</div>
+</div>
+				<div class="part" id="micron">
+<div class="partTitle">Micron Technology</div>
+<div class="partNum">
+<data>MT</data>
+<data>40</data>
+<data>*</data>
+<data>*</data>
+<data>*</data>
+<data>*</data>
+<span>-</span>
+<data>*</data>
+<data>*</data>
+<data>*</data>
+<data>*</data>
+<span>:</span>
+<data>A</data>
+</div>
+<div class="partContent">
+<div>
+<b>Manufacturer Code</b><br>
+MT: Micron Technology<br>
+</div>
+<div>
+<b>Product Family</b><br>
+40: DDR4 SDRAM<br>
+</div>
+<div>
+<b>Voltage</b><br>
+A: 1.2V VDD<br>
+AX: 1.275V VDD<br>
+B: 1.1V VDD<br>
+C: 5.0V VCC<br>
+D: 1.1V VDD, 0.6V VDDQ (see datasheets for 200b Z11M VDDQ options)<br>
+E: 1.1V VDD, (1.1V VDDQ /0.6V VDDQ (backward compatible))<br>
+F: 1.05V VDD, 0.5V VDDQ<br>
+G: 3.0V VDD<br>
+H: 1.8V VDD<br>
+HC: 1.8V VDD, 1.2V I/O<br>
+J: 1.5V VDD<br>
+K: 1.35V VDD<br>
+L: 1.2V VDD<br>
+LC: 3.3V VDD<br>
+M: 1.25V VDD<br>
+N: 1.0V VDD<br>
+R: 1.55V VDD<br>
+V: 2.5V VDD<br>
+</div>
+<div>
+<b>Component Configuration</b><br>
+Blank: Bits<br>
+K: Kilobits<br>
+M: Megabits<br>
+G: Gigabits<br>
+</div>
+<div>
+<b>Device Versions</b><br>
+Blank: Initial version<br>
+</div>
+<div>
+<b>DRAM Package Codes</b><br>
+Codes range from 1-3 characters depending on the product. Please refer to the datasheet for package details.: <br>
+</div>
+<div>
+<b>Speed Grade Mark (Max Clock Frequency; PC Targets CL-nRCD-nRP)</b><br>
+093E: 1067 MHz 15-15-15<br>
+093H: 1067 MHz 18-15-15<br>
+083: 1200 MHz 17-17-17<br>
+083E: 1200 MHz 16-16-16<br>
+083H: 1200 MHz 20-18-18<br>
+083J: 1200 MHz 19-17-17<br>
+075: 1333 MHz 19-19-19<br>
+075E: 1333 MHz 18-18-18<br>
+075H: 1333 MHz 22-19-19<br>
+068: 1467 MHz 21-21-21<br>
+068E: 1467 MHz 20-20-20<br>
+068H: 1467 MHz 24-21-21<br>
+062E: 1600 MHz 22-22-22<br>
+062H: 1600 MHz 26-22-22<br>
+</div>
+<div>
+<b>Special Options</b><br>
+A: Automotive<br>
+G: Graphics<br>
+L: Low power<br>
+M: Reduced standby<br>
+N: Networking (Graphics)<br>
+X: Product Longevity Program (Automotive & Industrial only)<br>
+OS: Off Spec<br>
+RS: Relaxed Spec<br>
+</div>
+<div>
+<b>Operating Temperatures</b><br>
+Blank: Commercial temperature<br>
+IT: Industrial temperature<br>
+AT: Automotive temperature<br>
+WT: Wireless temperature<br>
+XT: Wide temperature<br>
+UT: Ultra temperature<br>
+ET: Extreme temperature<br>
+</div>
+<div>
+<b>Product Status</b><br>
+ES: Engineering sample<br>
+MS: Mechanical sample<br>
+Blank: Production<br>
+</div>
+<div>
+<b>Die Revision Designator</b><br>
+A: Revision A<br>
+</div>
+</div>
+</div>
+				<div class="part" id="skhynix">
+<div class="partTitle">SK Hynix</div>
+<div class="partNum">
+<data>H</data>
+<data>5</data>
+<data>A</data>
+<data>N</data>
+<data>XX</data>
+<data>X</data>
+<data>X</data>
+<data>X</data>
+<data>X</data>
+<data>X</data>
+<span>-</span>
+<data>XX</data>
+<data>X</data>
+</div>
+<div class="partContent">
+<div>
+<b>Manufacturer Code</b><br>
+H: SK Hynix Memory<br>
+</div>
+<div>
+<b>Product Family</b><br>
+5: DRAM<br>
+</div>
+<div>
+<b>Product Mode</b><br>
+A: DDR4 SDRAM<br>
+</div>
+<div>
+<b>Power Supply</b><br>
+N: VDD & VDDQ=1.2V<br>
+</div>
+<div>
+<b>Density & Refresh</b><br>
+1G: 1Gb<br>
+2G: 2Gb<br>
+4G: 4Gb<br>
+8G: 8Gb<br>
+AG: 16Gb<br>
+BG: 32Gb<br>
+</div>
+<div>
+<b>Organization</b><br>
+4: x4<br>
+6: x16<br>
+8: x8<br>
+</div>
+<div>
+<b>Die Type</b><br>
+N: Non-TSV<br>
+T: TSV<br>
+</div>
+<div>
+<b>Die Generation</b><br>
+M: 1st<br>
+A: 2nd<br>
+B: 3rd<br>
+C: 4th<br>
+D: 5th<br>
+E: 6th<br>
+F: 7th<br>
+G: 8th<br>
+</div>
+<div>
+<b>Package Type</b><br>
+2: TSV 2 high stack<br>
+4: TSV 4 high stack<br>
+F: FBGA<br>
+M: FBGA DDP<br>
+J: Flipchip SDP<br>
+</div>
+<div>
+<b>Package Material</b><br>
+L: Leaded<br>
+P: Lead Free (ROHS compliant)<br>
+R: Lead Free & Halogen Free (ROHS compliant)<br>
+</div>
+<div>
+<b>Speed (tCL-tRCD-tRP)</b><br>
+PB: DDR4-1600 11-11-11<br>
+RD: DDR4-1866 13-13-13<br>
+TF: DDR4-2133 15-15-15<br>
+UH: DDR4-2400 17-17-17<br>
+VK: DDR4-2666 19-19-19<br>
+XN: DDR4-3200 22-22-22<br>
+</div>
+<div>
+<b>Operating Temperature & Power Consumption</b><br>
+C: Commercial Temp(0°C ~ 85°C) & Normal Power<br>
+R: Commercial Temp(0°C ~ 85°C) & Reduced IDD6<br>
+I: Industrial Temp(-40°C ~ 95°C) & Normal Power<br>
+K: Extended Temp(-40°C ~ 105°C) & Normal Power<br>
+F: Automotive Grade Industrial Temp (AIT / -40°C ~ 95°C)<br>
+N: Automotive Grade Automotive Temp (AAT / -40°C ~ 105°C)<br>
+</div>
+</div>
+</div>
+			</div>
+			<div id="welcome" class="container" style="display: none;">
+				<div class="title">
+					<h2>Welcome to our Site!</h2>
+				</div>
+				<p>Our company <strong>Chipper</strong> aims to ease the process of searching for information about electronic parts. At the moment, we are rapidly developing several tools that cater to repair technicians, students, and electrical engineers, which will lead up to the creation of a mobile application for scanning and identifying microchips.</p>
+			</div>
+			<div id="contactblob" class="container" style="display: none;">
+				<div class="title">
+					<h2>Contact Us!</h2>
+				</div>
+				<p><strong>Chipper</strong> is a brand new company, so we'd love your feedback! Please send all comments or business inquiries to <strong>main@chipper.io</strong>.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Chipper, inc. All rights reserved. |<!--  Photos by <a href="http://fotogrph.com/">Fotogrph</a> | --> Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/minisearch@2.4.1/dist/umd/index.min.js"></script>
+<script src="info/DDR4_info.js"></script>
+<script src="info/MCP_info.js"></script>
+<script src="info/eMMC_info.js"></script>
+<script src="info/LPDDR_info.js"></script>
+<script src="info/UFS_info.js"></script>
+<script src="info/NAND_info.js"></script>
+
+<script src="info/SamsungRAM_info.js"></script>
+<script src="info/SKHynix_info.js"></script>
+<script src="info/Micron_info.js"></script>
+<script src="info/Kioxia_info.js"></script>
+<script src="info/AMD_info.js"></script>
+<script src="script/navigation.js"></script> 
+<script src="script/partsearch.js"></script>
+<script src="script/decoder.js"></script> 
+</body>
+</html>

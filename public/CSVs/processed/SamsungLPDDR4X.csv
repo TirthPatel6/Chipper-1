@@ -1,0 +1,35 @@
+﻿Part Number,Capacity,Org.,Speed,Voltage,Temp.,Package,Product Status
+K3UH5H50AM-AGCL,32 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,556FBGA,Mass Production
+K3UH5H50AM-EGCL,32 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,376FBGA,Mass Production
+K3UH5H50AM-JGCL,32 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,432FBGA,Mass Production
+K3UH5H50AM-JGCR,32 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,432FBGA,Sample
+K3UH6H60BM-AGCL,48 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,556FBGA,Mass Production
+K3UH6H60BM-EGCL,48 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,376FBGA,Mass Production
+K3UH7H70AM-AGCL,64 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,556FBGA,Mass Production
+K3UH7H70AM-EGCL,64 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,376FBGA,Mass Production
+K3UH7H70AM-JGCL,64 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,432FBGA,Mass Production
+K3UH7H70AM-JGCR,64 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,432FBGA,Sample
+K3UH9H90BM-AGCL,80 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,556FBGA,Mass Production
+K3UHAHA0AM-AGCL,96 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,556FBGA,Mass Production
+K3UHBHB0BM-EGCL,96 Gb,x64,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,376FBGA,Mass Production
+K4U2E3S4AA-GFCL,12 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 95 °C,200FBGA,Mass Production
+K4U2E3S4AA-GHCL,32 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 105 °C,200FBGA,Mass Production
+K4U2E3S4AA-GUCL,16 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 125 °C,200FBGA,Mass Production
+K4U6E3S4AA-MGCL,16 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Mass Production
+K4U6E3S4AA-MGCR,16 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Sample
+K4U6E3S4AM-GFCL,24 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 95 °C,200FBGA,Mass Production
+K4U6E3S4AM-GHCL,32 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 105 °C,200FBGA,Mass Production
+K4U6E3S4AM-GUCL,16 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 125 °C,200FBGA,Mass Production
+K4U8E3S4AD-GFCL,8 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 95 °C,200FBGA,Mass Production
+K4U8E3S4AD-GHCL,12 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 105 °C,200FBGA,Mass Production
+K4U8E3S4AD-GUCL,12 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 125 °C,200FBGA,Mass Production
+K4UBE3D4AA-MGCL,32 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Mass Production
+K4UBE3D4AA-MGCR,32 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Sample
+K4UBE3D4AM-GFCL,24 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 95 °C,200FBGA,Mass Production
+K4UBE3D4AM-GHCL,48 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 105 °C,200FBGA,Sample
+K4UBE3D4AM-GUCL,32 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 125 °C,200FBGA,Mass Production
+K4UCE3Q4AA-MGCL,64 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Mass Production
+K4UCE3Q4AA-MGCR,64 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-25 ~ 85 °C,200FBGA,Sample
+K4UHE3D4AA-GFCL,24 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 95 °C,200FBGA,Mass Production
+K4UHE3D4AA-GHCL,48 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 105 °C,200FBGA,Sample
+K4UHE3D4AA-GUCL,16 Gb,x32,4266 Mbps,1.8 / 1.1 / 0.6 V,-40 ~ 125 °C,200FBGA,Mass Production

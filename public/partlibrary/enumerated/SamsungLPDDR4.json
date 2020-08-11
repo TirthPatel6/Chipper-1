@@ -1,0 +1,384 @@
+{
+    "manufacturer": "samsung",
+    "type": "lpddr4",
+    "data": {
+        "K4F2E3S4HA-GFCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HA-GHCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HA-GUCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HA-TFCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HA-THCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HA-TUCL": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HM-MFCJ": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F2E3S4HM-MHCJ": {
+            "Capacity": "12 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F4E3S4HF-GFCJ": {
+            "Capacity": "4 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F4E3S4HF-GHCJ": {
+            "Capacity": "4 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F4E3S4HF-GUCJ": {
+            "Capacity": "4 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E304HB-MGCJ": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-25 ~ 85 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3D4HB-MFCJ": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3D4HB-MHCJ": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-GFCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-GHCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-GUCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-MGCJ": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-25 ~ 85 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-TFCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-THCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F6E3S4HM-TUCL": {
+            "Capacity": "16 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E304HB-MGCJ": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-25 ~ 85 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HB-MFCJ": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HB-MHCJ": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HD-GFCL": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HD-GHCL": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HD-GUCL": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4F8E3S4HD-MGCL": {
+            "Capacity": "8 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-25 ~ 85 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-GFCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-GHCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-GUCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-TFCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-THCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FBE3D4HM-TUCL": {
+            "Capacity": "32 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-GFCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-GHCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-GUCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-TFCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-THCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HA-TUCL": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "4266 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 125 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HM-MFCJ": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 95 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        },
+        "K4FHE3D4HM-MHCJ": {
+            "Capacity": "24 Gb",
+            "Org.": "x32",
+            "Speed": "3733 Mbps",
+            "Voltage": "1.8 / 1.1 / 1.1 V",
+            "Temp.": "-40 ~ 105 °C",
+            "Package": "200FBGA",
+            "Product Status": "Mass Production"
+        }
+    }
+}

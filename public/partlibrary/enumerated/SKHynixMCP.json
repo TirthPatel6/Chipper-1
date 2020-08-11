@@ -1,0 +1,132 @@
+{
+    "manufacturer": "skhynix",
+    "type": "mcp",
+    "data": {
+        "H9TQ64A8GTDCUR-KUM": {
+            "Storage Density": "8GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "1GB",
+            "DRAM Mode": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9TQ17ABJTCCUR-KUM": {
+            "Storage Density": "16GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "2GB",
+            "DRAM Mode": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HP27ACPMMDAR-KMM": {
+            "Storage Density": "32GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9TQ27ACLTACUR-KUM": {
+            "Storage Density": "32GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9TQ27ADFTMCUR-KUM": {
+            "Storage Density": "32GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "3GB",
+            "DRAM Mode": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HP52ACPMADAR-KMM": {
+            "Storage Density": "64GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HP52AECMMDAR-KMM": {
+            "Storage Density": "64GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "6GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HQ53ACPMMDAR-KEM": {
+            "Storage Density": "64GB",
+            "Storage Version": "UFS2.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HQ53AECMMDAR-KEM": {
+            "Storage Density": "64GB",
+            "Storage Version": "UFS2.1",
+            "DRAM Density": "6GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9TQ52ACLTMCUR-KUM": {
+            "Storage Density": "64GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HP16ACPMMDAR-KMM": {
+            "Storage Density": "128GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HP16AECMMDAR-KMM": {
+            "Storage Density": "128GB",
+            "Storage Version": "eMMC5.1",
+            "DRAM Density": "6GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HQ16ACPMMDAR-KEM": {
+            "Storage Density": "128GB",
+            "Storage Version": "UFS2.1",
+            "DRAM Density": "4GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266Mbps",
+            "Product Status": "Mass Production"
+        },
+        "H9HQ16AECMMDAR-KEM": {
+            "Storage Density": "128GB",
+            "Storage Version": "UFS2.1",
+            "DRAM Density": "6GB",
+            "DRAM Mode": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266Mbps",
+            "Product Status": "Mass Production"
+        }
+    }
+}

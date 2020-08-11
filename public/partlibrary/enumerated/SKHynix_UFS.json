@@ -1,0 +1,41 @@
+{
+    "manufacturer": "skhynix",
+    "type": "ufs",
+    "data": {
+        "H28S6D302BMR": {
+            "Density": "32GB",
+            "Mono-Density": "128Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "UFS2.1"
+        },
+        "H28S7Q302BMR": {
+            "Density": "64GB",
+            "Mono-Density": "128Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "UFS2.1"
+        },
+        "H28U72301CMR": {
+            "Density": "64GB",
+            "Mono-Density": "256Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "UFS2.1"
+        },
+        "H28S8Q302CMR": {
+            "Density": "128GB",
+            "Mono-Density": "256Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "UFS2.1"
+        },
+        "H28S9O302BMR": {
+            "Density": "256GB",
+            "Mono-Density": "256Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "UFS2.1"
+        }
+    }
+}

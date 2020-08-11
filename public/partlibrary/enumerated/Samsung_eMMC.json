@@ -1,0 +1,302 @@
+{
+    "manufacturer": "samsung",
+    "type": "emmc",
+    "data": {
+        "KLM4G1FETE-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "4 GB",
+            "Voltage": "1.8, 3.3 V / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11 x 10 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLM8G1GESD-B03P": {
+            "Version": "eMMC 5.0",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLM8G1GESD-B03Q": {
+            "Version": "eMMC 5.0",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLM8G1GESD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLM8G1GESD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLM8G1GETF-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "8 GB",
+            "Voltage": "1.8, 3.3 V / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLM8G1GEUF-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLM8G1GEUF-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "8 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMAG1JETD-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "16 GB",
+            "Voltage": "1.8, 3.3 V / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMAG2GESD-B03P": {
+            "Version": "eMMC 5.0",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMAG2GESD-B03Q": {
+            "Version": "eMMC 5.0",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMAG2GESD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMAG2GESD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMAG2GEUF-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMAG2GEUF-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "16 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMBG2JETD-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "32 GB",
+            "Voltage": "1.8, 3.3 V / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMBG4GESD-B03P": {
+            "Version": "eMMC 5.0",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMBG4GESD-B03Q": {
+            "Version": "eMMC 5.0",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMBG4GESD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMBG4GESD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMBG4GEUF-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMBG4GEUF-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMCG2KCTA-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMCG2UCTA-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMCG2UCTB-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 0.8 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMCG4JETD-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8, 3.3 V / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMCG4JEUD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMCG4JEUD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMCG8GESD-B03P": {
+            "Version": "eMMC 5.0",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMCG8GESD-B03Q": {
+            "Version": "eMMC 5.0",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMCG8GESD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMCG8GESD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMDG4UCTA-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMDG4UCTB-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C"
+        },
+        "KLMDG8JEUD-B04P": {
+            "Version": "eMMC 5.1",
+            "Density": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C"
+        },
+        "KLMDG8JEUD-B04Q": {
+            "Version": "eMMC 5.1",
+            "Density": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C"
+        },
+        "KLMEG8UCTA-B041": {
+            "Version": "eMMC 5.1",
+            "Density": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "HS400",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C"
+        }
+    }
+}

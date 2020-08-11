@@ -1,0 +1,4 @@
+var _Kioxia_info = `
+<div class="infoTitle">MANUFACTURER</div>
+<div class="infoText">KIOXIA, which officially started operating on October 1, 2019, after rebranding from Toshiba Memory, is a world leader in memory solutions, dedicated to the development, production and sale of flash memory and solid-state drives (SSDs). In April 2017, its predecessor Toshiba Memory was spun off from Toshiba Corporation, the company that invented NAND flash memory in 1987. KIOXIA is committed to uplifting the world with memory by offering products, services and systems that create choice for customers and memory-based value for society. KIOXIA's innovative 3D flash memory technology, BiCS FLASH™, is shaping the future of storage in high-density applications, including advanced smartphones, PCs, SSDs, automotive and data centers. [<a href="https://www.avnet.com/shop/us/m/kioxia/">Source</a>]</div>
+`;

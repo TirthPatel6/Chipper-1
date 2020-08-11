@@ -1,0 +1,1996 @@
+{
+    "manufacturer": "micron",
+    "type": "slc_nand",
+    "data": {
+        "MT29F128G08AJAAAWP-ITZ": {
+            "Density": "128Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F128G08AKCABH2-10IT": {
+            "Density": "128Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F128G08AMCABH2-10ITZ": {
+            "Density": "128Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F128G08AMCABJ2-10Z": {
+            "Density": "128Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "132-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F128G08AMCDBJ5-6": {
+            "Density": "128Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "132-ball",
+            "MT/s": "333 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F16G08ABABAM62B3WC1": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F16G08ABABAWP-AIT": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F16G08ABABAWP-IT": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F16G08ABACAM72A3WC1": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F16G08ABACAWP-ITZ": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F16G08ABACAWP-Z": {
+            "Density": "16Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F16G08ABCBBH1-12AIT": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "166 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F16G08ABCCBH1-10ITZ": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F16G08ABECBM72A3WC1": {
+            "Density": "16Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F16G08AJADAWP-IT": {
+            "Density": "16Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G01AAADDH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G01ABAFD12-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G01ABAFD12-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G01ABAFDSF-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "SOIC",
+            "Pin Count": "16-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G01ABAFDWB-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "8-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G01ABBFD12-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G01ABBFDWB-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "8-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABADAH4": {
+            "Density": "1Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABADAH4-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABADAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABADAWP": {
+            "Density": "1Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABADAWP-IT": {
+            "Density": "1Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABADAWP-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAEAH4": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABAEAH4-AATX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAEAH4-AITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAEAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAEAM68M3WC1": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABAEAWP": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABAEAWP-AATX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAEAWP-AITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAEAWP-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAEAWP-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAFAH4-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAFAH4-AATES": {
+            "Density": "1Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAFAH4-ITE": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABAFAM78A3WC1": {
+            "Density": "1Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Die",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F1G08ABAFAM78A3WC1L": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Die",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F1G08ABAFAWP-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAFAWP-AATES": {
+            "Density": "1Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABAFAWP-ITE": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABBDAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABBEAH4-AITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABBEAH4-IT": {
+            "Density": "1Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABBEAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G08ABBEAM68M3WC1": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F1G08ABBFAH4-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABBFAH4-AATES": {
+            "Density": "1Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G08ABBFAH4-ITE": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G16ABBDAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G16ABBDAHC-IT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G16ABBEAH4-AITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G16ABBEAH4-ITX": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F1G16ABBFAH4-AAT": {
+            "Density": "1Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G16ABBFAH4-AATES": {
+            "Density": "1Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F1G16ABBFAH4-IT": {
+            "Density": "1Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F256G08AUCABH3-10ITZ": {
+            "Density": "256Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "LBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F256G08AUCABH3-10Z": {
+            "Density": "256Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "LBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F256G08AUCABJ3-10Z": {
+            "Density": "256Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "LBGA",
+            "Pin Count": "132-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F2G01ABAGD12-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G01ABAGD12-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G01ABAGDM79A3WC1": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F2G01ABAGDSF-IT": {
+            "Density": "2Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x1/x2/x4",
+            "Voltage": "3.3V",
+            "Package": "SOIC",
+            "Pin Count": "16-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G01ABAGDWB-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "8-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G01ABBGD12-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G01ABBGD12-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G01ABBGDM79A3WC1": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F2G01ABBGDWB-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "8-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAH4": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F2G08ABAEAH4-AATX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABAEAH4-AITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAH4-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAH4-ITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAWP": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F2G08ABAEAWP-AATX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABAEAWP-AITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAWP-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAEAWP-ITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAH4-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABAGAH4-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABAGAH4-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAH4-AITES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAH4-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAH4-ITE": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAM79A3WC1": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F2G08ABAGAWP-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F2G08ABAGAWP-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F2G08ABAGAWP-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F2G08ABAGAWP-AITES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "(Empty)"
+        },
+        "MT29F2G08ABAGAWP-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABAGAWP-ITE": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABBEAH4-AITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABBEAH4-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABBEAH4-ITX": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABBEAHC-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G08ABBGAH4-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABBGAH4-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G08ABBGAH4-IT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16AABWP-ET": {
+            "Density": "2Gb",
+            "Part Status": "Obsolete",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABAEAWP-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABAEAWP-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABAGAWP-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G16ABAGAWP-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABAGAWP-AITES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABBEAH4-AAT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +85C"
+        },
+        "MT29F2G16ABBEAH4-IT": {
+            "Density": "2Gb",
+            "Part Status": "End of Life",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABBEAHC-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABBGAH4-AATES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F2G16ABBGAH4-AIT": {
+            "Density": "2Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F2G16ABBGAH4-AITES": {
+            "Density": "2Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F32G08ABAAAM73A3WC1": {
+            "Density": "32Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F32G08ABAAAWP-ITZ": {
+            "Density": "32Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F32G08ABAAAWP-Z": {
+            "Density": "32Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F32G08ABCABH1-10ITZ": {
+            "Density": "32Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F32G08ABCABH1-10Z": {
+            "Density": "32Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F32G08ABCDBJ4-6": {
+            "Density": "32Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "132-ball",
+            "MT/s": "333 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F32G08ABEABM73A3WC1": {
+            "Density": "32Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G01AAADDHC-ITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G01ABAFD12-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "166 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G01ABAFD12-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "166 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G01ABAFDWB-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "166 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G01ABBFD12-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TBGA",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G01ABBFD12-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TBGA",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G01ABBFDWB-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G01ADAGDWB-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x1/x2/x4",
+            "Voltage": "3.3V",
+            "Package": "U-PDFN-8",
+            "Pin Count": "8-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAH4": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABADAH4-AATX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G08ABADAH4-AITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAH4-ITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAWP": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABADAWP-AATX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G08ABADAWP-AITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAWP-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABADAWP-ITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAEAH4": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABAEAH4-ITS": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAEAWP": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABAEAWP-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAFAH4-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G08ABAFAH4-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAFAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAFAM70A3WC1": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABAFAWP-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G08ABAFAWP-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABAFAWP-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAH4": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABBDAH4-AITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAH4-ITX": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAHC-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAHC-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBDAM60A3WC1": {
+            "Density": "4Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABBEAH4": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G08ABBEAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBFAH4-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F4G08ABBFAH4-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBFAH4-AITES": {
+            "Density": "4Gb",
+            "Part Status": "Sampling",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBFAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G08ABBFAM70A3WC1": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "Wafer",
+            "Pin Count": "(Empty)",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F4G16ABADAH4-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G16ABADAWP-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G16ABBDAH4-AIT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G16ABBDAH4-IT": {
+            "Density": "4Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F4G16ABBFAH4-AAT": {
+            "Density": "4Gb",
+            "Part Status": "Sampling",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F64G08AECABH1-10ITZ": {
+            "Density": "64Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "100-ball",
+            "MT/s": "200 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F64G08AECDBJ4-6": {
+            "Density": "64Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VBGA",
+            "Pin Count": "132-ball",
+            "MT/s": "333 MT/s",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F64G08AFAAAWP-ITZ": {
+            "Density": "64Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F64G08AJABAWP-IT": {
+            "Density": "64Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G01ADAFD12-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "133 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G01ADAFD12-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "3.3V",
+            "Package": "TBGA",
+            "Pin Count": "24-ball",
+            "MT/s": "133 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G01ADBFD12-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TSOP",
+            "Pin Count": "24-ball",
+            "MT/s": "83 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G01ADBFD12-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x1",
+            "Voltage": "1.8V",
+            "Package": "TSOP",
+            "Pin Count": "24-ball",
+            "MT/s": "83 MT/s",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABABAM61A3WC1": {
+            "Density": "8Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F8G08ABABAWP": {
+            "Density": "8Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F8G08ABABAWP-AATX": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G08ABABAWP-AITX": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABABAWP-IT": {
+            "Density": "8Gb",
+            "Part Status": "End of Life",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABABAWP-ITX": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABACAH4-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABACAM71M3WC1": {
+            "Density": "8Gb",
+            "Part Status": "Contact Factory",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "Wafer",
+            "Pin Count": "n/a",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F8G08ABACAWP": {
+            "Density": "8Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "0C to +70C"
+        },
+        "MT29F8G08ABACAWP-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ABBCAH4-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ADADAH4-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ADAFAH4-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "50 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G08ADAFAWP-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "50 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G08ADAFAWP-AIT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "50 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G08ADBDAH4-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G08ADBDAH4-IT": {
+            "Density": "8Gb",
+            "Part Status": "Obsolete",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G08ADBFAH4-AAT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x8",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "50 MT/s",
+            "Op. Temp.": "-40C to +105C"
+        },
+        "MT29F8G16ABACAWP-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "TSOP",
+            "Pin Count": "48-pin",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G16ADADAH4-IT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "3.3V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        },
+        "MT29F8G16ADBDAH4-AIT": {
+            "Density": "8Gb",
+            "Part Status": "Production",
+            "Width": "x16",
+            "Voltage": "1.8V",
+            "Package": "VFBGA",
+            "Pin Count": "63-ball",
+            "MT/s": "(Empty)",
+            "Op. Temp.": "-40C to +85C"
+        }
+    }
+}

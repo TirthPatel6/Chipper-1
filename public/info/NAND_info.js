@@ -1,0 +1,4 @@
+var _NAND_info = `
+<div class="infoTitle">ABOUT NAND FLASH</div>
+<div class="infoText">NAND flash memory is a type of nonvolatile storage technology that does not require power to retain data. An important goal of NAND flash development has been to reduce the cost per bit and to increase maximum chip capacity so that flash memory can compete with magnetic storage devices, such as hard disks. NAND flash has found a market in devices to which large files are frequently uploaded and replaced. MP3 players, digital cameras and USB flash drives use NAND technology. [<a href="https://searchstorage.techtarget.com/definition/NAND-flash-memory">Source</a>]</div>
+`;

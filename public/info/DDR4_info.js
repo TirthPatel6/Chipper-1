@@ -1,0 +1,4 @@
+var _DDR4_info = `
+<div class="infoTitle">ABOUT DDR4 RAM</div>
+<div class="infoText">Stands for "Double Data Rate 4." DDR4 is the fourth generation of DDR RAM, a type of memory commonly used in desktop and laptop computers. It was introduced in 2014, though it did not gain widespread adoption until 2016.<br><br>DDR4 is designed to replace DDR3, the previous DDR standard. Advantages include faster data transfer rates and larger capacities, thanks to greater memory density and more memory banks (16 rather than 8). DDR4 also operates at a lower voltage (1.2V compared to 1.5V), so it is more power-efficient. [<a href="https://techterms.com/definition/ddr4">Source</a>]</div>
+`;

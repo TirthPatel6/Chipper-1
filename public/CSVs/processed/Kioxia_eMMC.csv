@@ -1,0 +1,14 @@
+﻿Part Number,Process,Capacity,e-MMC Version,Max Data Rate (MB/s),Vcc,Vccq,Operating Temperature (C),Package Size (mm),Grade
+THGBMNG5D1LBAIT,FG NAND,4GB,5,400,2.7 to 3.6,"1.70 to 1.95,",-25 to 85,11.0x10.0x0.8,Consumer Grade
+THGBMNG5D1LBAIL,FG NAND,4GB,5,400,2.7 to 3.7,2.7 to 3.6,-25 to 86,11.5x13.0x0.8,Consumer Grade
+THGBMJG6C1LBAIL,FG NAND,8GB,5.1,400,2.7 to 3.8,2.7 to 3.7,-25 to 87,11.5x13.0x0.9,Consumer Grade
+THGBMJG7C1LBAIL,FG NAND,16GB,5.1,400,2.7 to 3.9,2.7 to 3.8,-25 to 88,11.5x13.0x0.10,Consumer Grade
+THGBMJG8C2LBAIL,FG NAND,32GB,5.1,400,2.7 to 3.10,2.7 to 3.9,-25 to 89,11.5x13.0x0.11,Consumer Grade
+THGAMRG7T13BAIL,BiCS,16GB,5.1,400,2.7 to 3.6,1.70 to 1.95,-25 to 85,11.5x13.0x0.8,Consumer Grade
+THGAMRG8T13BAIL,BiCS,32GB,5.1,400,2.7 to 3.7,1.70 to 1.96,-25 to 86,11.5x13.0x0.9,Consumer Grade
+THGAMRG9T23BAIL,BiCS,64GB,5.1,400,2.7 to 3.8,1.70 to 1.97,-25 to 87,11.5x13.0x0.10,Consumer Grade
+THGAMRT0T43BAIR,BiCS,128GB,5.1,400,2.7 to 3.9,1.70 to 1.98,-25 to 88,11.5x13.0x1.0,Consumer Grade
+THGBMJG6C1LBAU7,FG NAND,8GB,5.1,400,2.7 to 3.6,1.70 to 1.95,-40 to 105,11.5x13.0x1.0,Industrial Grade
+THGBMJG7C2LBAU8,FG NAND,16GB,5.1,400,2.7 to 3.7,2.7 to 3.6,-40 to 106,11.5x13.0x1.2,Industrial Grade
+THGBMJG8C4LBAU8,FG NAND,32GB,5.1,400,2.7 to 3.8,2.7 to 3.7,-40 to 107,11.5x13.0x1.3,Industrial Grade
+THGBMJG9C8LBAU8,FG NAND,64GB,5.1,400,2.7 to 3.9,2.7 to 3.8,-40 to 108,11.5x13.0x1.4,Industrial Grade

@@ -1,0 +1,4 @@
+var _AMD_info = `
+<div class="infoTitle">MANUFACTURER</div>
+<div class="infoText">Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those modest beginnings, AMD has grown into a global company of 10,000 people, achieving many important industry firsts along the way. AMD today develops high-performance computing and visualization products to solve some of the world’s toughest and most interesting challenges. There has never been a better time to be in the semiconductor industry, and we are ready to tackle the next 50 years with high-performance computing and graphics solutions that transform all of our lives. [<a href="https://www.amd.com/en/corporate/about-amd">Source</a>]</div>
+`;

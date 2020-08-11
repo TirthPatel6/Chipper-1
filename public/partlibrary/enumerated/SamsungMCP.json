@@ -1,0 +1,213 @@
+{
+    "manufacturer": "samsung",
+    "type": "mcp",
+    "data": {
+        "KM2B8001CM-BB01": {
+            "eStorage Den.": "256 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM2V7001CM-B706": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM2V8001CM-B707": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM3H6001CA-B515": {
+            "eStorage Den.": "64 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM3V6001CM-B705": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM4X6001KM-B321": {
+            "eStorage Den.": "32 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "16 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Sample"
+        },
+        "KM5V7001DM-B621": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "32 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM5V8001DM-B622": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "48 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM8B8001JM-BC01": {
+            "eStorage Den.": "256 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "64 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KM8F8001MM-B813": {
+            "eStorage Den.": "256 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "96 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Sample"
+        },
+        "KM8V8001JM-B813": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "UFS 2.1",
+            "DRAM Den.": "64 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KMDD6001DM-B320": {
+            "eStorage Den.": "32 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "32 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KMDH6001DA-B422": {
+            "eStorage Den.": "64 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "32 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KMDP60018M-B425": {
+            "eStorage Den.": "64 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "24 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMDV6001DM-B620": {
+            "eStorage Den.": "128 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "32 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KMDX60018M-B425": {
+            "eStorage Den.": "32 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "24 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "4266 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMDX6001DM-B422": {
+            "eStorage Den.": "32 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "32 Gb",
+            "DRAM Type": "LPDDR4X",
+            "Package": "254FBGA",
+            "Speed": "3733 Mbps",
+            "Product Status": "Mass Production"
+        },
+        "KMFE60012A-B214": {
+            "eStorage Den.": "16 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "8 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMFN60012B-B214": {
+            "eStorage Den.": "8 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "8 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMGP6001BA-B514": {
+            "eStorage Den.": "64  GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "24 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMGX6001BA-B514": {
+            "eStorage Den.": "32 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "24 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMQE60013B-B318": {
+            "eStorage Den.": "16 GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "16 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        },
+        "KMQX60013A-B419": {
+            "eStorage Den.": "32  GB",
+            "eStorage Ver.": "eMMC 5.1",
+            "DRAM Den.": "16 Gb",
+            "DRAM Type": "LPDDR3",
+            "Package": "221FBGA",
+            "Speed": "1866 Mbps",
+            "Product Status": "Sample"
+        }
+    }
+}

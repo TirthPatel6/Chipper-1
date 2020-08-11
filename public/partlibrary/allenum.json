@@ -1,0 +1,23 @@
+{
+    "names": [
+        "KioxiaUFS.json",
+        "Kioxia_eMMC.json",
+        "Micron3D_NAND.json",
+        "MicronDDR4.json",
+        "MicronLPDRAM.json",
+        "MicronMLC_NAND.json",
+        "MicronSLC_NAND.json",
+        "MicronTLC_NAND.json",
+        "MicronUFS.json",
+        "Micron_eMMC.json",
+        "SamsungLPDDR4.json",
+        "SamsungLPDDR4X.json",
+        "SamsungMCP.json",
+        "SamsungUFS.json",
+        "Samsung_eMMC.json",
+        "SKHynixMCP.json",
+        "SKHynix_eMMC.json",
+        "SKHynix_LPDDR4.json",
+        "SKHynix_UFS.json"
+    ]
+}

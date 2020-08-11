@@ -1,0 +1,55 @@
+{
+    "manufacturer": "skhynix",
+    "type": "emmc",
+    "data": {
+        "H26M31001HPR": {
+            "Density": "4GB",
+            "Mono-Density": "32Gb",
+            "PKG Size": "11.5x13x0.8",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC4.5"
+        },
+        "H26M41204HPR": {
+            "Density": "8GB",
+            "Mono-Density": "64Gb",
+            "PKG Size": "11.5x13x0.8",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        },
+        "H26M41208HPR": {
+            "Density": "8GB",
+            "Mono-Density": "64Gb",
+            "PKG Size": "11.5x13x0.8",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        },
+        "H26M51002KPR": {
+            "Density": "16GB",
+            "Mono-Density": "128Gb",
+            "PKG Size": "11.5x13x0.8",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        },
+        "H26M62002JPR": {
+            "Density": "32GB",
+            "Mono-Density": "128Gb",
+            "PKG Size": "11.5x13x0.8",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        },
+        "H26M74002HMR": {
+            "Density": "64GB",
+            "Mono-Density": "128Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        },
+        "H26T87001CMR": {
+            "Density": "128GB",
+            "Mono-Density": "256Gb",
+            "PKG Size": "11.5x13x1.0",
+            "PKG Type": "FBGA(153ball)",
+            "Spec": "eMMC5.1"
+        }
+    }
+}

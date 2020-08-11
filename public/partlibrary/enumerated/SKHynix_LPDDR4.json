@@ -1,0 +1,123 @@
+{
+    "manufacturer": "skhynix",
+    "type": "lpddr4",
+    "data": {
+        "H9HCNNN4KMMLHR": {
+            "Den.": "4Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-0.6V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNN4KUMLHR": {
+            "Den.": "4Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNN8KUMLHR": {
+            "Den.": "8Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNBKMMLHR": {
+            "Den.": "16Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-0.6V",
+            "Speed": "M / E",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNBKUMLHR": {
+            "Den.": "16Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "M / E",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNBPUMLHR": {
+            "Den.": "16Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNBUUMLHR": {
+            "Den.": "16Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HKNNNDGUMUAR": {
+            "Den.": "24Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L",
+            "Power": "Low Power",
+            "PKG": 272,
+            "Product Status": "Mass production"
+        },
+        "H9HKNNNDGUMUBR": {
+            "Den.": "24Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 366,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNCPMMLHR": {
+            "Den.": "32Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-0.6V",
+            "Speed": "M / E",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HCNNNCPUMLHR": {
+            "Den.": "32Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "M / E",
+            "Power": "Low Power",
+            "PKG": 200,
+            "Product Status": "Mass production"
+        },
+        "H9HKNNNCTUMUAR": {
+            "Den.": "32Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L",
+            "Power": "Low Power",
+            "PKG": 272,
+            "Product Status": "Mass production"
+        },
+        "H9HKNNNCTUMUBR": {
+            "Den.": "32Gb",
+            "Org.": "x16",
+            "Vol": "1.8V-1.1V-1.1V",
+            "Speed": "L / M",
+            "Power": "Low Power",
+            "PKG": 366,
+            "Product Status": "Mass production"
+        }
+    }
+}

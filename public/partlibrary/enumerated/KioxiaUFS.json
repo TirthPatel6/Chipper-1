@@ -1,0 +1,116 @@
+{
+    "manufacturer": "kioxia",
+    "type": "ufs",
+    "data": {
+        "THGAF8G8T23BAIL": {
+            "Capacity": "32GB",
+            "UFS Version": 2.1,
+            "Max Data Rate (MB/s)": 1166,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "n/a",
+            "Vccq2": "1.70 to 1.95",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.8",
+            "Grade": "n/a"
+        },
+        "THGAF8G9T43BAIR": {
+            "Capacity": "64GB",
+            "UFS Version": 2.1,
+            "Max Data Rate (MB/s)": 1166,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "n/a",
+            "Vccq2": "1.70 to 1.95",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x1.0",
+            "Grade": "n/a"
+        },
+        "THGAF8T0T43BAIR": {
+            "Capacity": "128GB",
+            "UFS Version": 2.1,
+            "Max Data Rate (MB/s)": 1166,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "n/a",
+            "Vccq2": "1.70 to 1.95",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x1.0",
+            "Grade": "n/a"
+        },
+        "THGAF8T1T83BAIR": {
+            "Capacity": "256GB",
+            "UFS Version": 2.1,
+            "Max Data Rate (MB/s)": 1166,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "n/a",
+            "Vccq2": "1.70 to 1.95",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x1.0",
+            "Grade": "n/a"
+        },
+        "THGJFCT0T44BAIL": {
+            "Capacity": "128GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.4 to 2.7",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.8",
+            "Grade": "n/a"
+        },
+        "THGJFCT0T44BAKL": {
+            "Capacity": "128GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.8",
+            "Grade": "High Performance Grade"
+        },
+        "THGJFCT1T84BAIC": {
+            "Capacity": "256GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.95",
+            "Grade": "n/a"
+        },
+        "THGJFCT1T84BAKC": {
+            "Capacity": "256GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.95",
+            "Grade": "High Performance Grade"
+        },
+        "THGJFCT2T84BAIC": {
+            "Capacity": "512GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.95",
+            "Grade": "n/a"
+        },
+        "THGJFCT2T84BAKC": {
+            "Capacity": "512GB",
+            "UFS Version": 3,
+            "Max Data Rate (MB/s)": 2332,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.14 to 1.26",
+            "Vccq2": "n/a",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.95",
+            "Grade": "High Performance Grade"
+        }
+    }
+}

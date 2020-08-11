@@ -1,0 +1,145 @@
+.part {
+    padding: 0pt 20pt 40pt 20pt;
+    font-size: 11pt;
+    font-weight: 400;
+}
+
+.partNum {
+    font-size: 0pt;
+    text-align: center;
+}
+
+.partNum > data {
+    font-size: xx-large;
+    font-family: monospace;
+    padding-left: 0.4em;
+    letter-spacing: 0.4em;
+}
+
+.partNum > data:first-of-type {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.partNum > data:last-of-type {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.partNum > span {
+    font-size: xx-large;
+    font-family: monospace;
+    background-color: lightgray;
+    padding-left: 0.2em;
+    letter-spacing: 0.2em;
+}
+
+.partNum > data:hover {
+    color: white;
+}
+
+.partNum > data.active {
+    padding-bottom: 0.2em;
+}
+
+.partTitle {
+    font-size: 2em;
+    padding-bottom: 0.2em;
+    font-weight: bold;
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+}
+
+.partContent > div {
+    display: none;
+    background-color: gainsboro;
+    margin-top: 1em;
+    padding: 1.5em 2em;
+    border-radius: 1em;
+    height: 23em;
+}
+
+#searchbar {
+    border-radius: 5em;
+    padding: 0.5em 1em;
+    font-size: xx-large;
+    font-family: monospace;
+    flex: 1;
+}
+
+#searchbarContainer {
+    flex: 8;
+    display: flex;
+    flex-direction: column;
+}
+
+#searchContainer {
+    display: flex;
+    margin-bottom: 2em;
+}
+
+@media only screen and (max-width: 800px) {
+    #searchContainer {
+        margin-left: 4em;
+        margin-right: 4em;
+    }
+}
+
+#searchsubmit {
+    border-radius: 5em;
+    padding: 0.5em 1em;
+    font-size: xx-large;
+    font-family: monospace;
+    font-weight: bold;
+    /* flex: 1; */
+    margin-left: 1em;
+    border: 0;
+    background-color: crimson;
+    color: ghostwhite;
+}
+
+#results {
+    display: none;
+    background-color: gainsboro;
+    margin-top: 1em;
+    padding: 1.5em 2em;
+    border-radius: 1em;
+    min-height: 23em;
+}
+
+.other_results {
+    background-color: gainsboro;
+    margin-top: 1em;
+    padding: 1.5em 2em;
+    border-radius: 1em;
+}
+
+.infoTitle {
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.5em;
+    color: gray;
+    text-transform: uppercase;
+}
+
+.infoText {
+    /* font-family: 'Ubuntu', sans-serif; */
+    /* font-size: 1.2em; */
+    /* color: dimgray; */
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#searchTitle {
+    padding-top: 6em;
+}
+
+#decoderTitle {
+    padding-top: 6em;
+    display: none;
+}
+
+#portfolio p
+{
+    text-align: center;
+    color: rgba(0,0,0,0.7);
+}

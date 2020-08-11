@@ -1,0 +1,149 @@
+{
+    "manufacturer": "kioxia",
+    "type": "emmc",
+    "data": {
+        "THGBMNG5D1LBAIT": {
+            "Process": "FG NAND",
+            "Capacity": "4GB",
+            "e-MMC Version": 5,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.70 to 1.95,",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.0x10.0x0.8",
+            "Grade": "Consumer Grade"
+        },
+        "THGBMNG5D1LBAIL": {
+            "Process": "FG NAND",
+            "Capacity": "4GB",
+            "e-MMC Version": 5,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.7",
+            "Vccq": "2.7 to 3.6",
+            "Operating Temperature (C)": "-25 to 86",
+            "Package Size (mm)": "11.5x13.0x0.8",
+            "Grade": "Consumer Grade"
+        },
+        "THGBMJG6C1LBAIL": {
+            "Process": "FG NAND",
+            "Capacity": "8GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.8",
+            "Vccq": "2.7 to 3.7",
+            "Operating Temperature (C)": "-25 to 87",
+            "Package Size (mm)": "11.5x13.0x0.9",
+            "Grade": "Consumer Grade"
+        },
+        "THGBMJG7C1LBAIL": {
+            "Process": "FG NAND",
+            "Capacity": "16GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.9",
+            "Vccq": "2.7 to 3.8",
+            "Operating Temperature (C)": "-25 to 88",
+            "Package Size (mm)": "11.5x13.0x0.10",
+            "Grade": "Consumer Grade"
+        },
+        "THGBMJG8C2LBAIL": {
+            "Process": "FG NAND",
+            "Capacity": "32GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.10",
+            "Vccq": "2.7 to 3.9",
+            "Operating Temperature (C)": "-25 to 89",
+            "Package Size (mm)": "11.5x13.0x0.11",
+            "Grade": "Consumer Grade"
+        },
+        "THGAMRG7T13BAIL": {
+            "Process": "BiCS",
+            "Capacity": "16GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.70 to 1.95",
+            "Operating Temperature (C)": "-25 to 85",
+            "Package Size (mm)": "11.5x13.0x0.8",
+            "Grade": "Consumer Grade"
+        },
+        "THGAMRG8T13BAIL": {
+            "Process": "BiCS",
+            "Capacity": "32GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.7",
+            "Vccq": "1.70 to 1.96",
+            "Operating Temperature (C)": "-25 to 86",
+            "Package Size (mm)": "11.5x13.0x0.9",
+            "Grade": "Consumer Grade"
+        },
+        "THGAMRG9T23BAIL": {
+            "Process": "BiCS",
+            "Capacity": "64GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.8",
+            "Vccq": "1.70 to 1.97",
+            "Operating Temperature (C)": "-25 to 87",
+            "Package Size (mm)": "11.5x13.0x0.10",
+            "Grade": "Consumer Grade"
+        },
+        "THGAMRT0T43BAIR": {
+            "Process": "BiCS",
+            "Capacity": "128GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.9",
+            "Vccq": "1.70 to 1.98",
+            "Operating Temperature (C)": "-25 to 88",
+            "Package Size (mm)": "11.5x13.0x1.0",
+            "Grade": "Consumer Grade"
+        },
+        "THGBMJG6C1LBAU7": {
+            "Process": "FG NAND",
+            "Capacity": "8GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.6",
+            "Vccq": "1.70 to 1.95",
+            "Operating Temperature (C)": "-40 to 105",
+            "Package Size (mm)": "11.5x13.0x1.0",
+            "Grade": "Industrial Grade"
+        },
+        "THGBMJG7C2LBAU8": {
+            "Process": "FG NAND",
+            "Capacity": "16GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.7",
+            "Vccq": "2.7 to 3.6",
+            "Operating Temperature (C)": "-40 to 106",
+            "Package Size (mm)": "11.5x13.0x1.2",
+            "Grade": "Industrial Grade"
+        },
+        "THGBMJG8C4LBAU8": {
+            "Process": "FG NAND",
+            "Capacity": "32GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.8",
+            "Vccq": "2.7 to 3.7",
+            "Operating Temperature (C)": "-40 to 107",
+            "Package Size (mm)": "11.5x13.0x1.3",
+            "Grade": "Industrial Grade"
+        },
+        "THGBMJG9C8LBAU8": {
+            "Process": "FG NAND",
+            "Capacity": "64GB",
+            "e-MMC Version": 5.1,
+            "Max Data Rate (MB/s)": 400,
+            "Vcc": "2.7 to 3.9",
+            "Vccq": "2.7 to 3.8",
+            "Operating Temperature (C)": "-40 to 108",
+            "Package Size (mm)": "11.5x13.0x1.4",
+            "Grade": "Industrial Grade"
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "manufacturer": "samsung",
+    "type": "ufs",
+    "data": {
+        "KLUBG4G1ZF-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUBG4G1ZF-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "32 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG2K1EA-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG2U1YB-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG2U1YB-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG4J1ED-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG4J1ZD-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUCG4J1ZD-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "64 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG4U1EA-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG4U1FB-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG4U1YB-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG4U1YB-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG8J1ZD-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUDG8J1ZD-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "128 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUEG8U1EA-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUEG8U1YB-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUEG8U1YB-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.2 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUEGAJ1ZD-B0CP": {
+            "Version": "UFS 2.1",
+            "Capacity": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.72 mm",
+            "Temp.": "-40 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUEGAJ1ZD-B0CQ": {
+            "Version": "UFS 2.1",
+            "Capacity": "256 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.72 mm",
+            "Temp.": "-40 ~ 105 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUFG8R1EM-B0C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "512 GB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.0 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUGGAR1FA-B2C1": {
+            "Version": "UFS 2.1",
+            "Capacity": "1 TB",
+            "Voltage": "1.8 / 3.3 V",
+            "Interface": "G3 2Lane",
+            "Package Size": "11.5 x 13 x 1.4 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        },
+        "KLUGGARHDA-B0D1": {
+            "Version": "UFS 3.0",
+            "Capacity": "1 TB",
+            "Voltage": "1.2 / 2.5 V",
+            "Interface": "G4 2Lane",
+            "Package Size": "11.5 x 13 x 1.25 mm",
+            "Temp.": "-25 ~ 85 °C",
+            "Product Status": "Mass Production"
+        }
+    }
+}

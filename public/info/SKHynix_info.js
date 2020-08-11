@@ -1,0 +1,4 @@
+var _SKHynix_info = `
+<div class="infoTitle">MANUFACTURER</div>
+<div class="infoText">SK hynix is a multinational company with over three decades of expertise in semiconductor manufacturing. The company’s global presence spans from four production sites in Korea and China (Icheon, Cheongju, Wuxi, and Chongqing) to four R&D centers and ten sales offices across the world. Building on its existing technological prowess, SK hynix is making relentless R&D efforts and investments to develop cutting-edge technology and cost-competitive products to attain leadership in the global semiconductor market. [<a href="https://www.skhynix.com/eng/about/compOverview.jsp">Source</a>]</div>
+`;
